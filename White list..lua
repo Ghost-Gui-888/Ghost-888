@@ -1,7 +1,7 @@
 return {
-["KS_G66"] = true,--鬼
-["CN_BLPO"] = true,--冷
-[""] = true,
+["KS_G66"] = true,
+["CN_BLPO"] = true,
+["masksjakqkess"] = true,
 [""] = true,
 [""] = true,
 [""] = true,
